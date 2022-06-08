@@ -1,4 +1,4 @@
-# Chapter 05_05
+# Chapter 05_07
 
 - Create a repository on GitHub using the [New Repository](https://github.com/new) page.  Name it something that relates to the lesson like `exercise-files`.
 
